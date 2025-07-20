@@ -731,12 +731,8 @@ Include the actual SQL code for each phase. You can either paste the entire code
 
 ## 
 
-## 
-
 ## **5\. Challenges and Learnings**
 
-Reflect on any challenges you encountered during the project and how you overcame them. This demonstrates your problem-solving skills.
-
-* *Example Challenges:* "Handling MySQL's lack of native INTERSECT operator," "Optimizing complex queries with multiple joins and window functions," "Understanding the nuances of LAG() and RANK() for specific ranking scenarios," "Debugging data type inconsistencies."  
-* *Learnings:* "Gained deeper understanding of query optimization techniques," "Improved proficiency in recursive CTEs and advanced window functions," "Learned to adapt SQL syntax across different database systems (e.g., MySQL vs. SQL Server for INCLUDE clause or INTERSECT)."
+* *Challenges:* Handling MySQL's lack of native INTERSECT operator," "Optimizing complex queries with multiple joins and window functions," "Understanding the nuances of LAG() and RANK() for specific ranking scenarios," "Debugging data type inconsistencies.  
+* *Learnings:* Gained deeper understanding of query optimization techniques," "Improved proficiency in recursive CTEs and advanced window functions," "Learned to adapt SQL syntax across different database systems (e.g., MySQL vs. SQL Server for INCLUDE clause or INTERSECT).
 
